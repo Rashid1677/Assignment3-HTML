@@ -1,0 +1,274 @@
+
+ *{
+    overflow-x: auto;
+       padding: 0;
+       margin: 0;
+   }
+   html{
+       scroll-behavior: smooth;
+   }
+   #color{
+    background-color: rgb(247, 247, 247, 1);
+    
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 15px;
+   }
+ #pic{
+    height: 20px;
+    width: 30px;
+ }
+ #tro{
+display: inline-flex;
+margin-right: 500px;
+margin-top: 30px;
+ }
+ #nav{
+    display: inline;  
+ }
+ a{
+    display: inline;
+    margin-left: 100px;
+ }
+ #search{
+    width: 15px;
+    height: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+} 
+#center{
+    display: flex;
+    
+    padding: 30px;
+}
+#one{
+    margin-top: 50px;
+    width: 300px;
+    padding-left: 30px;
+    font-size: 20px;
+    margin-right: 400px;
+    
+    
+    
+}
+#two{
+    margin-top: 50px;
+    padding-left: 200px;
+}
+.first{
+    margin-left:30px ;
+    color: aliceblue;
+    background-color: rgb(251, 91, 55,1);
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: rgb(255, 105, 105) ;
+}
+.second{
+    margin-left:30px ;
+    color: aliceblue;
+    background-color: rgb(21, 6, 6);
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: black;
+}
+#links{
+    background-color: rgb(251, 91, 55, 1)
+    ;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    
+    border-color: rgb(255, 105, 105);
+}
+#our{
+    margin-top: 20px;
+    text-align: center;
+}
+#lorem{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+#card{
+    display: flex;
+}
+.top{
+    color: rgb(255, 105, 105);
+    margin-top: 30px;
+}
+#Orange{
+    margin-top: 40px;
+text-align: center;
+line-height: 30px;
+width: 400px;
+height: 500px;
+margin-left: 100px;
+/* background-color: aliceblue; */
+border-style: groove ;
+}
+#Grapes{
+    margin-top: 40px;
+text-align: center;
+width: 400px;
+height: 500px;
+line-height: 30px;
+
+margin-left: 100px;
+border-style: groove ;
+
+}
+#Gauva{
+    margin-top: 40px;
+text-align: center;
+width: 400px;
+height: 500px;
+line-height: 30px;
+margin-right:100px ;
+margin-left: 100px;
+border-style: groove ;
+
+}
+#read{
+    font-size: 20px;
+    color: aliceblue;
+    background-color: black;
+    margin-top: 40px;
+    margin-left:646px ;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#fresh{
+    margin-top: 80px;
+    text-align: center;
+    
+}
+#ipsum{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+#best{
+    margin-left:40px ;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+#fresho{
+    display: flex;
+}
+#dolor{
+    width: 700px;
+    margin-left: 40px;
+    margin-right: 400px;
+    font-size:20px ;
+}
+.nine{
+    margin-right:10px ;
+}
+#buy{
+    margin-left: 40px;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: black;
+
+}
+#or{
+    text-align:center;
+    margin-top: 100px;
+}
+#clint{
+    margin-left: 600px;
+}
+.ras{
+    margin-top: 50px;
+    
+    text-align: center;
+}
+#lore{
+    margin-left: 350px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    width: 900px;
+    font-size: 20px;
+}
+#name{
+    display: flex;
+}
+#plate{
+    margin-left: 350px;
+}
+
+#email{
+    line-height: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 800px;
+    font-size: 20px;
+}
+#phone{
+    
+    margin-bottom: 30px;
+}
+#phone1{
+    
+    margin-bottom: 50px;
+}
+#send{
+    margin-top: 50px;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color:rgb(255, 91, 55,1) ;
+    border-color:rgb(255, 105, 105) ;
+}
+#last{
+    display: flex;
+}
+.five{
+    margin-top: 70px;
+    line-height: 30px;
+    margin-left: 8%;
+    margin-right:190px ;
+    width: 100px;
+    font-size: 20px;
+}
+#ten{
+    margin-top: 70px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+#sub{
+    margin-top: 20px;
+}
+#input{
+    margin-top: 30px;
+    height: 20px;
+}
+#lastb{
+    margin-top: 30px;
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: rgb(251, 91, 55, 1)
+    ;
+}
+#lastd{
+    background-color: beige;
+    padding: 20px;
+    margin-top: 200px;
+    margin-bottom: 500px;
+    text-align: center;
+}
